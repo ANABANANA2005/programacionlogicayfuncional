@@ -1,5 +1,5 @@
+<img width="1254" height="1254" alt="2E1EDD5F-96D7-4C18-95A9-880068650AB1" src="https://github.com/user-attachments/assets/9cb422a0-872e-457f-9789-846883568af6" />
 
-![DALL·E 2024-08-25 12 00 07 - A friendly and intelligent small robot named Lambda Bot, designed as the mascot for a programming class focused on functional and logic programming  T](https://github.com/user-attachments/assets/f0fae45f-f121-43ab-98f5-8b91f037d774)
 
 
 # Programación Lógica y Funcional — Agosto–Diciembre 2026
